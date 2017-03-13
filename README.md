@@ -1,4 +1,5 @@
-﻿ # SRParaphrase - The Serbian Paraphrase Corpus
+﻿
+# SRParaphrase - The Serbian Paraphrase Corpus
 
 The Serbian Paraphrase Corpus consists of 1194 pairs of sentences gathered from news sources on the web.
 Each sentence pair was manually annotated with a binary score that indicates whether the sentences are semantically similar enough to be considered close paraphrases.
