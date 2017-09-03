@@ -29,8 +29,8 @@ The agreement measured on this portion of the corpus is 78.27%.
 
 ## Corpus format
 paraphrase.sr is available in two formats:
-* As a single file - *[paraphrase.sr.txt](http://github.com/vukbatanovic/paraphrase-sr/blob/master/paraphrase.sr.txt)* - which contains the full 1194 scored sentence pairs, sorted chronologically.
-* As a 70/30% randomly shuffled training/test split, which was used in the papers listed in the reference section. The file *[paraphrase.sr.train.txt](http://github.com/vukbatanovic/paraphrase-sr/blob/master/paraphrase.sr.train.txt)* contains the 835 pairs of the training set, while the file *[paraphrase.sr.test.txt](http://github.com/vukbatanovic/paraphrase-sr/blob/master/paraphrase.sr.test.txt)* contains the 359 test set pairs.
+* As a single file - *[paraphrase.sr.txt](http://github.com/vukbatanovic/paraphrase.sr/blob/master/paraphrase.sr.txt)* - which contains the full 1194 scored sentence pairs, sorted chronologically.
+* As a 70/30% randomly shuffled training/test split, which was used in the papers listed in the reference section. The file *[paraphrase.sr.train.txt](http://github.com/vukbatanovic/paraphrase.sr/blob/master/paraphrase.sr.train.txt)* contains the 835 pairs of the training set, while the file *[paraphrase.sr.test.txt](http://github.com/vukbatanovic/paraphrase.sr/blob/master/paraphrase.sr.test.txt)* contains the 359 test set pairs.
 
 All files share the same three-column tab-separated structure - the first column contains the binary scores, while the sentences are in the second and the third column.
 The sentences are written in the Serbian Latin script.
