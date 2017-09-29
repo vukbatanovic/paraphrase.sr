@@ -1,4 +1,4 @@
-﻿# paraphrase.sr - The Serbian Paraphrase Corpus
+# paraphrase.sr - The Serbian Paraphrase Corpus
 
 The Serbian Paraphrase Corpus (ISLRN [192-200-046-033-9](http://www.islrn.org/resources/192-200-046-033-9/)) consists of 1194 pairs of sentences gathered from news sources on the web.
 Each sentence pair was manually annotated with a binary score that indicates whether the sentences are semantically similar enough to be considered close paraphrases.
